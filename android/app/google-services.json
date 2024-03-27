@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863225103674",
+    "project_id": "minimal-sap",
+    "storage_bucket": "minimal-sap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863225103674:android:1aa21750aafd969b3bfc03",
+        "android_client_info": {
+          "package_name": "com.example.minimal_social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwkTM2SBjliBAsyNe4WOjIXLiylq1IuLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
